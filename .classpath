@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Arbitrary"/>
+	<classpathentry kind="src" path="BoardModules"/>
+	<classpathentry kind="src" path="GraphicsComponents"/>
+	<classpathentry kind="src" path="pieces"/>
+	<classpathentry kind="src" path="PlayerComponents"/>
+	<classpathentry kind="src" path="Tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="out/production/chessJava"/>
+</classpath>
